@@ -5,4 +5,5 @@ module SongsHelper
    else
      hidden_field_tag "song[artist_id]", song.artist_id
    end
+  end
 end
