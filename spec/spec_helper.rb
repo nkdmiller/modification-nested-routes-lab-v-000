@@ -92,5 +92,5 @@ RSpec.configure do |config|
   Kernel.srand config.seed
   
 =end
-  config.color_enabled?= true
+  config.color_enabled? = true
 end
